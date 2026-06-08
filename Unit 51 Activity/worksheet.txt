@@ -1,0 +1,24 @@
+Part 1 
+Step 3 
+Prediction for typeof: undefined because no value
+
+Step 4 
+Error message for studentID; TypeError: Assignment to constant variable.
+Why: This happends because the variable was declared with const, so you can not reassign a variable studentID. 
+
+Part 2
+step 4
+Avarage Prediction after adding 8
+73.8
+
+//Why let or const
+const - value will never change (your name, ID, enrolled status)
+let - value might change (grade can go up, town could change, previousSchool will be filled in later)
+
+The difficult part about the activity was to add the uppercase, it was not difficult but i forgot i had to watch you tube video to be able to write it properly. the the repeating of console.log in the final report.
+
+activity 2 shop
+mousePriceWrong *2
+I was expecting an error because i multiply a string with a number
+
+JavaScript does not show an error, but it handles it silently  The  type coercion - automaticaly convert type to another behind the scenes. but this is not good coding practice, it may cause error is difficult taskes
